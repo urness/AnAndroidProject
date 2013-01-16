@@ -7,6 +7,8 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 	//Here's another change
 	
+	//And now it's working!!!!
+	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
